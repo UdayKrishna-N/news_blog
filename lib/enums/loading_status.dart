@@ -1,0 +1,4 @@
+enum LoadingStatus{
+  completed,
+  processing,
+}
